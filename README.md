@@ -1,1 +1,3 @@
-# Comparison-of-state-of-the-art-algorithms-for-de-novo-Drug-Design
+# Comparison of state-of-the-art algorithms for de novo Drug Design
+
+Code coming soon! :)
